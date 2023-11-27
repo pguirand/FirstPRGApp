@@ -149,6 +149,7 @@ dependencies {
     kapt("androidx.room:room-compiler:2.6.0")
 
     //ksp
+    //The new branch is opened now
 
 
 
